@@ -11,7 +11,6 @@ namespace StudyPrjTest
             int a = 1;
             int b = 2;
             Console.WriteLine(a + b);
-            List 
             //Method1(ref a);
         }
 
