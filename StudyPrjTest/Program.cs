@@ -11,7 +11,7 @@ namespace StudyPrjTest
             int a = 1;
             int b = 2;
             Console.WriteLine(a + b);
-            Console.WriteLine("Test2");
+            Console.WriteLine("Test добавил перед сбросом");
             //Method1(ref a);
         }
 
